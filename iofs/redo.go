@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"io/fs"
 
-	"github.com/pressly/goose"
+	"github.com/WinXaito/goose/v3"
 )
 
 // Redo rolls back the most recently applied migration, then runs it again.

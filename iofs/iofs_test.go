@@ -7,8 +7,8 @@ import (
 
 	_ "github.com/mattn/go-sqlite3"
 
-	"github.com/pressly/goose"
-	"github.com/pressly/goose/iofs"
+	"github.com/WinXaito/goose/v3"
+	"github.com/WinXaito/goose/v3/iofs"
 )
 
 //go:embed testdata

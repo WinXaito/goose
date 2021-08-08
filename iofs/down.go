@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"io/fs"
 
-	"github.com/pressly/goose"
+	"github.com/WinXaito/goose/v3"
 )
 
 // Down rolls back a single migration from the current version.

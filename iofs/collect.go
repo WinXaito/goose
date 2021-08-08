@@ -7,7 +7,7 @@ import (
 	"os"
 	"sort"
 
-	"github.com/pressly/goose"
+	"github.com/WinXaito/goose/v3"
 )
 
 // CollectMigrations returns all the valid looking migration scripts in the

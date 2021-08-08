@@ -5,7 +5,7 @@ import (
 	"io/fs"
 
 	"github.com/pkg/errors"
-	"github.com/pressly/goose"
+	"github.com/WinXaito/goose/v3"
 )
 
 // Reset rolls back all migrations
